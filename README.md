@@ -1,2 +1,2 @@
 # Notas-IA
-Notas de la clase de inteligencia artificical 2026-1
+Notas del curso de inteligencia artificial
